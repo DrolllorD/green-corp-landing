@@ -387,6 +387,9 @@ footer{
         flex-direction: column;
         align-items: baseline;
     }
+    .features__box{
+        width: 275px;
+    }
     .features__box h3{
         font-size: 36px;
     }
@@ -399,6 +402,7 @@ footer{
     }
     .promo__image{
         height: 500px;
+        width: auto;
     }
     .promo__right{
         padding: 50px 10px;
